@@ -1,0 +1,36 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - O programa deve cadastrar novas contas",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - A pessoa usuária deve conseguir fazer Login e Logout",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - O programa deve permitir checar o saldo, depositar e sacar dinheiro",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - O programa deve transferir dinheiro entre contas",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    }
+  ]
+}
